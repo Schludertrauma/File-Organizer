@@ -11,6 +11,7 @@ Organizes files in a directory by moving them into subfolders by file type (imag
 ## Example
 Input:
 📂 Downloads/
+
 ├── song.mp3  
 ├── image.jpg  
 ├── notes.pdf  
@@ -18,6 +19,7 @@ Input:
 
 Output:
 📂 Downloads/
+
 ├── audio/song.mp3  
 ├── images/image.jpg  
 ├── documents/notes.pdf  
