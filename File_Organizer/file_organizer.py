@@ -9,7 +9,7 @@ import os
 import time
 
 
-class FileOrganizer:
+class fileorganizer:
     def welcome_message(self):
         # This function prints a welcome message to the user.
         print("Welcome to the File Organizer!")
@@ -124,5 +124,5 @@ class FileOrganizer:
 
 
 if __name__ == "__main__":
-    organizer = FileOrganizer()
+    organizer = fileorganizer()
     organizer.run()
